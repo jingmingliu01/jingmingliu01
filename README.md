@@ -8,4 +8,4 @@ I'm a product builder and founder building [Cocision](https://cocision.app) - an
 
 Cocision helps you pause before digital distractions and make intentional decisions before you continue. The browser extension is available now, with an iOS app on the way.
 
-[Website](https://cocision.app) · [Updates](https://x.com/cocisionapp) · [Contact](mailto:hello@cocision.app)
+[Website](https://cocision.app) · [X](https://x.com/cocisionapp) · [Chrome Extension Store (Early Access)](https://chrome.google.com/webstore/detail/jgnfjhpjljlhdjlhjcknoooohncleglk) · [Contact](mailto:hello@cocision.app)
